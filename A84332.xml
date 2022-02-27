@@ -1,0 +1,421 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie, on the most barbarous, vnparallel'd, vnsouldiery, murder, committed at Colchester, upon the persons of the two most incomparable, Sir Charles Lucas, and Sir George Lisle.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84332</idno>
+            <idno type="STC">Wing E424</idno>
+            <idno type="STC">Thomason E465_1</idno>
+            <idno type="STC">ESTC R205178</idno>
+            <idno type="EEBO-CITATION">99864611</idno>
+            <idno type="PROQUEST">99864611</idno>
+            <idno type="VID">162263</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162263)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E465[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie, on the most barbarous, vnparallel'd, vnsouldiery, murder, committed at Colchester, upon the persons of the two most incomparable, Sir Charles Lucas, and Sir George Lisle.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Sept 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lisle, George, --  Sir, d. 1648.</term>
+               <term>Lucas, Charles, --  Sir, 1613-1648.</term>
+               <term>Elegaic poetry, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162263:1" rendition="simple:additions"/>
+            <p>AN <hi>ELEGIE,</hi> On the moſt Barbarous,Vnparallel'd, Vnſouldiery, Murder,</p>
+            <p>Committed at COLCHESTER, upon the perſons of the two moſt incomparable, Sir <hi>CHARLES LUCAS,</hi> AND Sir <hi>GEORGE LISLE.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON.</hi> Printed in the Year, 1648. <add>Sept 28</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:162263:2"/>
+            <pb n="1" facs="tcp:162263:2"/>
+            <head>AN ELEGIE On the moſt Incomparable, Sir CHARLES LUCAS, and Sir GEORGE LISLE.</head>
+            <lg>
+               <l>THough all the <hi>Trophies</hi> Rebels can bring in,</l>
+               <l>Are but <hi>ſuccesfull guilt,</hi> and <hi>proſperous ſin:</hi>
+               </l>
+               <l>And each defeat their ſavage heat can buy,</l>
+               <l>But <hi>outrage</hi> be, and <hi>high-way victory:</hi>
+               </l>
+               <l>Though there be <hi>Juries</hi> due for all they've flaine,</l>
+               <l>And the <hi>juſt Bar</hi> each conqueſt muſt <hi>arraigne:</hi>
+               </l>
+               <l>Though what they <hi>Charge,</hi> and <hi>vigorous Onſet call,</hi>
+               </l>
+               <l>Is down-right, <hi>Stand, Deliver,</hi> and that's all:</l>
+               <l>Though <hi>Forts</hi> reduc'd, and <hi>Holds</hi> ſuppreſs'd by awe,</l>
+               <l>Here's <hi>S<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Siege,</hi> but <hi>Burglary</hi> i'th' <hi>Law:</hi>
+               </l>
+               <l>And COLCHESTER it ſelf, in Truth's free ſcope,</l>
+               <l>Is no <hi>Towne Taken,</hi> but a <hi>Towne Broke ope</hi>
+               </l>
+               <l>That from the Booty gain'd, and wealthy prize,</l>
+               <l>Not their <hi>renowne,</hi> but their <hi>Indictments</hi> riſe.</l>
+               <l>Whence they can naught but <hi>Tyburne Triumphs</hi> raiſe,</l>
+               <l>And <hi>Seſsians-Laurell,</hi> where the <hi>Hemp's</hi> the <hi>Bayes:</hi>
+               </l>
+               <l>Yet they had ſome Pretext, ſome Title ſtill,</l>
+               <l>Though not to <hi>virtue,</hi> yet to <hi>generous ill:</hi>
+               </l>
+               <l>And the next Age, by our Records, might ſay,</l>
+               <l>They went <hi>well on,</hi> though they <hi>miſtooke their way.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So <hi>aged Rome</hi> ev'n in her <hi>out-lawes</hi> ſhines,</l>
+               <l>Some luſtre gaines ev'n from her <hi>Cataline's.</hi>
+               </l>
+               <pb n="2" facs="tcp:162263:3"/>
+               <l>But ours are <hi>ſunke</hi> and <hi>falne,</hi> have ſtain'd their Name,</l>
+               <l>Things <hi>beneath Rebels, baſhfull Annals</hi> ſhame.</l>
+               <l>
+                  <hi>Traytour!</hi> though the wild ſound affrights beget,</l>
+               <l>Though it be <hi>Villaine deep,</hi> 'tis <hi>Manly</hi> yet:</l>
+               <l>And in the <hi>Herauldry of Crimes</hi> may find</l>
+               <l>
+                  <hi>Kin and Allyes</hi> 'mongſt <hi>Sins of humane kind.</hi>
+               </l>
+               <l>But this <hi>unpattern'd</hi> By-blow, baſe offence,</l>
+               <l>Muſt flie diſclaim'd, and unaffianc'd hence.</l>
+               <l>Chain'd and immur'd in un-frequented Cell,</l>
+               <l>And live an <hi>Anchorite</hi> in <hi>Populous</hi> Hell.</l>
+            </lg>
+            <lg>
+               <l>The ſtout Beſieg'd, whom Force could ne're ſubdue,</l>
+               <l>Now long begirt with Foes, and Famine too,</l>
+               <l>When the laſt drop lay gaſping in the cruſe,</l>
+               <l>And no acceſſion worne ſupplies renewes,</l>
+               <l>While clean, and unclean they alike imbarke,</l>
+               <l>Like the Creations ſhelter (once) the Arke,</l>
+               <l>When the exhauſted Town defended hears,</l>
+               <l>'Bove the <hi>diſtreſſe</hi> of <hi>Troy,</hi> though not the <hi>years:</hi>
+               </l>
+               <l>At laſt they doe ſubſcribe, but leave this Fame,</l>
+               <l>They knew no <hi>Conquerour, till Hunger</hi> came:</l>
+               <l>So <hi>Tyre</hi> yeilds to th' <hi>Pellaean Youth</hi> at length,</l>
+               <l>The purchaſe of his <hi>patience,</hi> not his <hi>ſtrength;</hi>
+               </l>
+               <l>When now diſ-abled, they for <hi>reſcue</hi> come,</l>
+               <l>To private Shrines, to publique Altars ſome,</l>
+               <l>The Victor check'd their <hi>flight,</hi> and bade them know,</l>
+               <l>No <hi>Sanctuary</hi> ſaves like a <hi>juſt Foe.</hi>
+               </l>
+               <l>But oh the difference 'twixt two Heathens gon,</l>
+               <l>'Twixt him of old, and Fairfax <hi>Macedon!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In <hi>doubtfull</hi> conflict, where the equall day</l>
+               <l>Smiles fair on both ſides, and gives neither ſway,</l>
+               <l>
+                  <hi>Slaughter</hi> may <hi>prudence</hi> ſeem, and <hi>bloud</hi> allure,</l>
+               <l>Since 'tis not then to <hi>kill,</hi> but to <hi>ſecure.</hi>
+               </l>
+               <l>But all <hi>conteſt</hi> laid by, and <hi>ſteele</hi> let go,</l>
+               <l>To <hi>cull,</hi> and <hi>ſlay!</hi> the <hi>Shambles</hi> vanquiſh ſo.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:162263:3"/>
+               <l> A <hi>Coward's</hi> ſtill <hi>unſafe;</hi> but <hi>honour</hi> knowes</l>
+               <l>No other Foe, but him that doth <hi>oppoſe.</hi>
+               </l>
+               <l>Nor would this blaſted act ſuch field afford,</l>
+               <l>Were't the <hi>Eſcape</hi> or <hi>Heat</hi> of ſome <hi>Raſh Sword,</hi>
+               </l>
+               <l>The gaſtly monſter might be then diſguis'd,</l>
+               <l>And ſavage <hi>Murder</hi> ſound but <hi>Un-advis'd.</hi>
+               </l>
+               <l>But this was <hi>Tame debate,</hi> and was let fall,</l>
+               <l>Thy <hi>coole reſult, deliberate Cannibal.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Is this the <hi>Mercy?</hi> are we pitied thus?</l>
+               <l>Had your <hi>Committee-Priſoners</hi> ſuch from us?</l>
+               <l>We grant ten thouſand ſuch heap'd in one pile,</l>
+               <l>Can never poize a <hi>Lucas,</hi> or a <hi>Lile:</hi>
+               </l>
+               <l>Yet be the <hi>diff<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rence vaſt,</hi> the <hi>change</hi> is <hi>true,</hi>
+               </l>
+               <l>And you are pay'd, if thoſe be <hi>deare</hi> to you.</l>
+               <l>If <hi>Aeſop's Cock</hi> for <hi>Pearle</hi> would <hi>Barley</hi> get,</l>
+               <l>Who makes that change is nothing in his debt.</l>
+               <l>Perſons and things are as their <hi>Prizers</hi> deem,</l>
+               <l>Not rated from their <hi>Worth,</hi> but our <hi>Eſteem.</hi>
+               </l>
+               <l>With <hi>Indians</hi> Beads of Glaſſe 'bove Diamonds go,</l>
+               <l>The <hi>Traffick's</hi> juſt, becauſe they count them ſo.</l>
+            </lg>
+            <lg>
+               <l>Safe and untouch'd we ſent your men in peace,</l>
+               <l>And muſt our Bloud requite for their Releaſe?</l>
+               <l>We not expect Returns in our own way,</l>
+               <l>For then we muſt be <hi>Free</hi> as well as They.</l>
+               <l>Yet ſure a <hi>full compleat diſcharge</hi> from thrall,</l>
+               <l>May for <hi>un-injur'd Bondage</hi> ſafely call.</l>
+            </lg>
+            <lg>
+               <l>But ſince no danger in their <hi>Lives</hi> remains,</l>
+               <l>Since ſhackles ſcare not, and none awes in chains:</l>
+               <l>Nay ſince their <hi>Safety,</hi> is their <hi>Purchaſe</hi> now,</l>
+               <l>And equall Trade will <hi>men</hi> for <hi>men</hi> allow:</l>
+               <l>Since their comerce doth on a <hi>levell</hi> ſtand,</l>
+               <l>And all's but <hi>ware</hi> for <hi>ware</hi> at ſtricteſt hand;</l>
+               <pb n="4" facs="tcp:162263:4"/>
+               <l>Why then theſe <hi>crimſon ſtreamas,</hi> this <hi>Sea of Bloud?</hi>
+               </l>
+               <l>Is there no <hi>Head,</hi> no <hi>Spring</hi> derives this <hi>Floud?</hi>
+               </l>
+               <l>Yes, a pale hoofe the Ruthleſſe mountaine hit,</l>
+               <l>And riſing thence, proclaim'd <hi>Revenge</hi> was it.</l>
+               <l>
+                  <hi>Revenge</hi> is ſhe, that <hi>great incenſed</hi> Pow'r,</l>
+               <l>Whoſe Altars <hi>humane ſacrifice</hi> devour.</l>
+               <l>Revenge is <hi>Honour, Justice, Country, Laws;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Your ſelves at leaſt ſhould have conceal'd this clauſe.</l>
+               <l>Say, was that <hi>Scar</hi> receiv'd from <hi>Lucas</hi> hand,</l>
+               <l>(That which was once a <hi>Scar,</hi> but now a <hi>Brand</hi>)</l>
+               <l>Receiv'd in Fight, when what he then did give</l>
+               <l>They <hi>Cheek,</hi> had ſped thy <hi>Heart,</hi> but He cry'd, <hi>Live?</hi>
+               </l>
+               <l>Was it a crime thou could'ſt ſo not indure,</l>
+               <l>That <hi>Bloud</hi> muſt balſome it, and his <hi>Life</hi> cure?</l>
+               <l>Haſt thou <hi>complexion, lines,</hi> or ought to paſſe</l>
+               <l>For leſſe then Vizour in thy affrighted Glaſſe?</l>
+               <l>Then we might prize, not think the damage ſmall,</l>
+               <l>But waile the loſſe of <hi>Lady Generall.</hi>
+               </l>
+               <l>But in thy <hi>courſe, tought viſage, home-ſpun face,</hi>
+               </l>
+               <l>Wounds may <hi>imprint,</hi> and <hi>ſcar,</hi> but ne're <hi>diſgrace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet know, who muſe why <hi>Liſle</hi> and <hi>Lucas</hi> die,</l>
+               <l>They fall to <hi>Fairfax</hi> injur'd ſymetry.</l>
+               <l>That <hi>beauteous feminine Buffe</hi> diſpatch'd them hence,</l>
+               <l>That <hi>featur'd</hi> Generall, <hi>He Her Excellence.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, there were <hi>friendſhip</hi> yet in <hi>deſtinie,</hi>
+               </l>
+               <l>If thoſe who <hi>kill,</hi> would but <hi>lend ſpace</hi> to die:</l>
+               <l>Mark then how they are <hi>hudled</hi> to their fate,</l>
+               <l>How the <hi>next</hi> Sun would call their murder <hi>late:</hi>
+               </l>
+               <l>To live till morne would ſeem a <hi>ſlow Reprieve;</hi>
+               </l>
+               <l>To <hi>reſpite Death</hi> is almoſt to let <hi>live.</hi>
+               </l>
+               <l>No, they are <hi>poſted</hi> hence, and <hi>butcher'd</hi> go,</l>
+               <l>E're they can <hi>fanſie</hi> you can <hi>murder</hi> ſo.</l>
+            </lg>
+            <lg>
+               <l>This tyranny alone belongs to you,</l>
+               <l>To ſlaughter <hi>Men,</hi> and <hi>expectations</hi> too.</l>
+               <pb n="5" facs="tcp:162263:4"/>
+               <l>On to the <hi>Tragick Amphitheater,</hi>
+               </l>
+               <l>And ſee theſe <hi>Hero's</hi> in the <hi>Baſsive War,</hi>
+               </l>
+               <l>Whoſe fortitude had deep this bottome laid,</l>
+               <l>The Valiant muſt <hi>affright,</hi> not be <hi>affraid.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>E're this, your buſie care ſweats to digeſt,</l>
+               <l>Some that can <hi>ayme,</hi> and act the Villains beſt.</l>
+               <l>Can ſingle out the <hi>eye,</hi> the <hi>braine,</hi> the <hi>heart.</hi>
+               </l>
+               <l>(For <hi>Murder</hi> now is but their kind of Art)</l>
+               <l>Know each receſſe, and all deaths ſecret maze,</l>
+               <l>Which path leads to <hi>Diſpatch,</hi> which to <hi>Delaies.</hi>
+               </l>
+               <l>With nice <hi>Diſſectors</hi> they muſt enter Liſts,</l>
+               <l>And <hi>Naked</hi> combate arm'd <hi>Anatomiſts.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When <hi>Force</hi> doth <hi>force,</hi> and <hi>Army Army</hi> meets,</l>
+               <l>Where <hi>wounds</hi> give <hi>wounds,</hi> &amp; <hi>ſlaughter ſlaughter</hi> greets,</l>
+               <l>Blind Fortune Fate in her own darkneſſe wraps,</l>
+               <l>Our falls are oft not <hi>Courage,</hi> but <hi>Miſ-haps.</hi>
+               </l>
+               <l>But here the guided ruine none can ſhun,</l>
+               <l>Keen death muſt on, and hath no track but <hi>one.</hi>
+               </l>
+               <l>No Bullet <hi>reaves</hi> or <hi>wanders</hi> in the dark,</l>
+               <l>But <hi>unperplex'd</hi> deſignes <hi>one ſingle</hi> Mark.</l>
+               <l>While they i'th threatning ſtorm undaunted reſt,</l>
+               <l>And taketh' whole peal of thunder on their Breſt.</l>
+            </lg>
+            <lg>
+               <l>To <hi>Gideon's fleece</hi> alone the Show'r did flie,</l>
+               <l>While the <hi>whole World</hi> was elſe untouch'd, and drie.</l>
+               <l>Thus <hi>Peaſants,</hi> England's <hi>Worthies</hi> veines doe broach,</l>
+               <l>Who were their <hi>Terror</hi> once, now their <hi>Reproach.</hi>
+               </l>
+               <l>Whom to <hi>Subdue,</hi> their Foes muſt firſt <hi>Betray,</hi>
+               </l>
+               <l>Whom <hi>Fairfax</hi> durſt <hi>aſſault</hi> no <hi>other way.</hi>
+               </l>
+               <l>Whom <hi>Norwich, Capel, Loughborough, Compton,</hi> all</l>
+               <l>Muſt ſee <hi>aveng'd,</hi> or in that Juſtice <hi>fall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Two of a <hi>matchleſſe,</hi> yet a <hi>different</hi> heat,</l>
+               <l>A various mingled flame, where both defeat.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:162263:5"/>
+               <l> LUCAS, poſſeſs'd a ſtout <hi>Majeſtick</hi> fire,</l>
+               <l>Wound up to a <hi>juſt</hi> pitch, but yet no <hi>high'r.</hi>
+               </l>
+               <l>Not ſhunning <hi>pride</hi> as he his <hi>worth</hi> not ſpi'd,</l>
+               <l>But making it his <hi>Worth</hi> to ſcorn all <hi>Pride.</hi>
+               </l>
+               <l>Where <hi>Vigorous</hi> was <hi>Aſsiſting:</hi> to be ſtrong</l>
+               <l>Inabled not t'<hi>Inflict,</hi> but <hi>Shrowd</hi> from wrong.</l>
+               <l>Not <hi>ſterne,</hi> yet <hi>fit</hi> to have <hi>inſtructed</hi> ſway,</l>
+               <l>To make none <hi>Tremble,</hi> yet make all <hi>Obay.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>LISLE, <hi>Soft</hi> ev'n to <hi>tears,</hi> yet <hi>ſtout</hi> as <hi>Adamant:</hi>
+               </l>
+               <l>So nature doth <hi>ſtiffe</hi> Rocks 'mongſt <hi>Waters</hi> plant.</l>
+               <l>
+                  <hi>Gentle</hi> and <hi>Melting</hi> into <hi>Valiant</hi> came,</l>
+               <l>As ſuppleſt <hi>Oyle</hi> draines in and heightens <hi>Flame.</hi>
+               </l>
+               <l>Slaine in his <hi>Friend,</hi> expiring in <hi>his</hi> groane;</l>
+               <l>Tender of all mens <hi>bloud,</hi> beſides his <hi>owne.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Both were ſo Peerleſſe ſuch, 'twas fit that they</l>
+               <l>Had not falne this, and yet this onely way.</l>
+               <l>
+                  <hi>Veſpaſian</hi> thus when his renown was <hi>full,</hi>
+               </l>
+               <l>And could not adde to his <hi>throng'd</hi> Chronicle:</l>
+               <l>Surpris'd, deſpiſes fate, and <hi>Rouzing,</hi> cries,</l>
+               <l>The Valiant falls <hi>Erect,</hi> and <hi>Standing,</hi> dies.</l>
+            </lg>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
